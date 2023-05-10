@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "tarealab07",
+  "version": "1.0.0",
+  "description": "Lab07",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesus-ccapa/TareaLab07.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesus-ccapa/TareaLab07/issues"
+  },
+  "homepage": "https://github.com/jesus-ccapa/TareaLab07#readme"
+}
